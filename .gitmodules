@@ -1,3 +1,4 @@
-[submodule "hugo-theme-learn"]
-	path = hugo-theme-learn
+[submodule "themes/hugo-theme-learn"]
+	path = themes/hugo-theme-learn
 	url = https://github.com/matcornic/hugo-theme-learn.git
+	branch = master

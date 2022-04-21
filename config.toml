@@ -1,10 +1,11 @@
-baseURL = 'https://workshop.live.genesys.com'
-languageCode = 'en-us'
-title = 'Genesys Workshops'
+baseURL = "/"
+languageCode = "en-us"
+title = "Genesys Workshops: Your_Workshop_Name"
 theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= "false"
 uglyurls = "true"
+relativeURLs = true
 enableEmoji = true
 
 [params]
