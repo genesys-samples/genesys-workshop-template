@@ -32,3 +32,15 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+      
+      - name: Login via AZ module
+        uses: azure/login@v1
+        with:
+          creds: ${{secrets.GENESYS_SAMPLES_SP}}
+          
+      - name: Upload Hugo to Azure Blob
+        uses: azure/CLI@v1
+        with:
+          inlineScript: |
+            az storage blob delete-batch --account-name 'genesyssamples' --source '$web' --pattern '${{ github.event.repository.name }}/*'
+            az storage blob upload-batch --account-name 'genesyssamples' --source ./public --destination '$web/${{ github.event.repository.name }}'
