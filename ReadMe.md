@@ -38,14 +38,6 @@ genesys/genesys-workshop-template <br>
 
 ## How to Contribute 
 
-We recommend commit and pull request messages to be clear, concise, and self-explanatory. Please specify related issues when possible
-
-We recommend these resources to get started with Github:
-
-- [Create a free acount](https://github.com/)
-- [How to fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
-- [How to create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-
 Once you have created your own fork, you can begin contributing to the "content" folder seen in the repository structure above. You can think of the folders within "Content" as modules. For example, if you wanted to add a module about "Setting Up", you would add a folder to the "Content folder" and title it "030-Setting Up". You would then add your information to that module. The number before the title signifies the order of that module. So "030-Setting Up" would come after "020-Getting Started" and before "090-Conclution". 
 
 You can then organize your content within that folder by adding markdown files. For example, the module "020-Getting Started" has 2 "submodules": 10_first.md and 20_second.md. 
