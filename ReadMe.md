@@ -5,36 +5,47 @@ The purpose of this repository is to provide Genesys partners with guidance on h
 ## Repository Structure
 
 genesys/genesys-workshop-template <br>
-├── .github <br>
-│   └── workflows <br>
-│       ├── gh-pages.md <br>
-├── archetypes <br>
-│   ├── default.md <br>
-├── content (all content for workshop will be entered here. Add new chapters as needed) <br>
-│   ├── 010-Introduction <br>
-│   │   ├── index.md (homepage for the chapter) <Br>
-│   └── 020-Getting Started <br>
-│   │   ├── 10_first.md <br>
-│   │   └── 20_second.md <br>
-│   │   ├── index.md (homepage for the chapter) <br>
-    └── 090-Conclution (misspelled purposely) <br>
-│   │   ├── index.md (conclusion for the entire workshop) <br>
+|
+|── .github <br>
+|   └── workflows <br>
+|       |── gh-pages.md <br>
+|
+|
+|── archetypes <br>
+|   |── default.md <br>
+|
+|
+|── content (all content for workshop will be entered here. Add new chapters as needed) <br>
+|   ├── 010-Introduction <br>
+|   │   ├── index.md (homepage for the chapter) <Br>
+|   └── 020-Getting Started <br>
+|   │   ├── 10_first.md <br>
+|   │   └── 20_second.md <br>
+|   │   ├── index.md (homepage for the chapter) <br>
+|   └── 090-Conclution (misspelled purposely) <br>
+|   │   ├── index.md (conclusion for the entire workshop) <br>
     └── index.md (Welcome page for the whole workshop) <br>
-├── layouts <br>
-│   ├── partial <br>
-│   │   ├── favicon.html <br>
-│   │   └── logo.html <br>
-│   │   └── menu-footer.html <br>
-├── static <br>
-│   ├── css <br>
-│   │   ├── .theme.mine.css <br>
-│   ├── images <br>
-│   │   ├── (images for workshop will be uploaded here) <br>
-│   ├── imports <br>
-│   │   ├── (downloadable documents, files, etc will be uploaded here) <br>
-├── themes <br>
-│   ├──hugo-theme-learn <br>
-│ 
+|
+|
+|── layouts <br>
+|   ├── partial <br>
+|   │   ├── favicon.html <br>
+|   │   └── logo.html <br>
+|   │   └── menu-footer.html <br>
+|
+|
+|── static <br>
+|   ├── css <br>
+|   │   ├── .theme.mine.css <br>
+|   ├── images <br>
+|   │   ├── (images for workshop will be uploaded here) <br>
+|   ├── imports <br>
+|   │   ├── (downloadable documents, files, etc will be uploaded here) <br>
+|
+|
+|── themes <br>
+|   ├──hugo-theme-learn <br>
+| 
 
 ## How to Contribute 
 
