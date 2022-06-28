@@ -5,16 +5,16 @@ The purpose of this repository is to provide Genesys partners with guidance on h
 ## Repository Structure
 
 genesys/genesys-workshop-template <br>
-|
+|<br>
 |── .github <br>
 |   └── workflows <br>
 |       |── gh-pages.md <br>
-|
-|
+|<br>
+|<br>
 |── archetypes <br>
 |   |── default.md <br>
-|
-|
+|<br>
+|<br>
 |── content (all content for workshop will be entered here. Add new chapters as needed) <br>
 |   ├── 010-Introduction <br>
 |   │   ├── index.md (homepage for the chapter) <Br>
@@ -25,15 +25,15 @@ genesys/genesys-workshop-template <br>
 |   └── 090-Conclution (misspelled purposely) <br>
 |   │   ├── index.md (conclusion for the entire workshop) <br>
     └── index.md (Welcome page for the whole workshop) <br>
-|
-|
+| <br>
+|<br>
 |── layouts <br>
 |   ├── partial <br>
 |   │   ├── favicon.html <br>
 |   │   └── logo.html <br>
 |   │   └── menu-footer.html <br>
-|
-|
+|<br>
+|<br>
 |── static <br>
 |   ├── css <br>
 |   │   ├── .theme.mine.css <br>
@@ -41,11 +41,11 @@ genesys/genesys-workshop-template <br>
 |   │   ├── (images for workshop will be uploaded here) <br>
 |   ├── imports <br>
 |   │   ├── (downloadable documents, files, etc will be uploaded here) <br>
-|
-|
+|<br>
+|<br>
 |── themes <br>
 |   ├──hugo-theme-learn <br>
-| 
+| <br>
 
 ## How to Contribute 
 
