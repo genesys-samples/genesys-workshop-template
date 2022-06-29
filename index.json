@@ -18,14 +18,14 @@
 	"title": "Introduction",
 	"tags": [],
 	"description": "",
-	"content": "Genesys Workshop Series Introduction Welcome In this workshop, you will learn\u0026hellip;\n This workshop is focused on things one, two and three.\n Learning Objectives  Master this Configure that Integrate this  "
+	"content": "Genesys Workshop Series Introduction Welcome In this workshop, you will learn how to build a workshop from scratch using Github and a few other tools. This workshop is intended for internal teams and partners who are working to develop workshops.\n"
 },
 {
 	"uri": "/020-getting-started.html",
 	"title": "Getting Started",
 	"tags": [],
 	"description": "",
-	"content": "Getting Started  First Lesson   Second Lesson   "
+	"content": "Tools You\u0026rsquo;ll Need   Github - Our repository can be found [here] (https://github.com/genesys-samples/cxAsCodeDevlab)   New Folder - Create and open a folder on your PC where you plan to store code locally. Ex: We created a folder on our Local Disk titled \u0026ldquo;Dev Projects\u0026rdquo;.   GitBash -If you are using Git Bash outside of VScode, open Git Bash from this folder by right clicking a blank area within the folder and selecting “Git Bash Here\u0026quot; (see image below)   Microsoft VS Code - Can be downloaded Here -Open VS code from this folder by right clicking a blank area within the folder and selecting \u0026ldquo;Open With Code\u0026rdquo; (See image above)   "
 },
 {
 	"uri": "/020-getting-started/20_second.html",
