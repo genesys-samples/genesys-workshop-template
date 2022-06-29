@@ -10,11 +10,4 @@ weight: 10
 
 ### Welcome
 
-In this workshop, you will learn...
-
-> This workshop is focused on things one, two and three.
-
-### Learning Objectives
-- Master this
-- Configure that
-- Integrate this
+In this workshop, you will learn how to build a workshop from scratch using Github and a few other tools. This workshop is intended for internal teams and partners who are working to develop workshops. 
